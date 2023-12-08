@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Exc1_Lista1 {
 	public static void main(String[] args) {
+		// exercicio 1
 		int num1, num2, num3, soma;
 		Scanner leia = new Scanner(System.in);
 		

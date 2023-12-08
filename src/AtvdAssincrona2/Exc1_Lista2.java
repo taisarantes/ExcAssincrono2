@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Exc1_Lista2 {
 	public static void main(String[] args) {
+		//exercicio 5
 		int produto, quantidade, valorTotal, preco = 0;
 		Scanner leia = new Scanner(System.in);
 		

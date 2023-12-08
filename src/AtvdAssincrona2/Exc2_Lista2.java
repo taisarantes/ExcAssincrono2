@@ -6,6 +6,7 @@ public class Exc2_Lista2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// exercicio 7
 		int opcao, num1, num2, soma, sub, mult, divi;
 		Scanner leia = new Scanner(System.in);
 		
